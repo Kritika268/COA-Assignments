@@ -19,6 +19,14 @@
 
 * Contains all required questions and solutions
 
+### 🔹 Assignment 3
+
+* Contains all required questions and solutions
+
+### 🔹 Assignment 4
+
+* Contains all required questions and solutions
+
 ---
 
 ## 📌 Note
